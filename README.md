@@ -13,3 +13,6 @@ Test your knowledge and challenge yourself with our interactive quiz app. Built 
 - Challenge yourself to beat your high score!
 # Get Started:
 Click the "Start Quiz" button to begin. Good luck, and have fun!
+
+
+Let Play <a href="https://tawaqul.github.io/Quiz_Code_Challenge/">Here</a>
